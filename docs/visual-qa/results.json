@@ -1,0 +1,1352 @@
+{
+  "pages": [
+    {
+      "name": "home",
+      "viewport": "1920x1080",
+      "status": 200,
+      "overflow": false,
+      "width": 1920,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": "608.297px 497.688px",
+      "cards": [
+        {
+          "title": "The Future of Leadership in a Changing World",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Building a Growth Mindset",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Why Innovation Matters for Africa’s Development",
+          "separated": true,
+          "imageLoaded": true
+        }
+      ],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "explore",
+      "viewport": "1920x1080",
+      "status": 200,
+      "overflow": false,
+      "width": 1920,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "categories",
+      "viewport": "1920x1080",
+      "status": 200,
+      "overflow": false,
+      "width": 1920,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "category",
+      "viewport": "1920x1080",
+      "status": 200,
+      "overflow": false,
+      "width": 1920,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "insights",
+      "viewport": "1920x1080",
+      "status": 200,
+      "overflow": false,
+      "width": 1920,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [
+        {
+          "title": "The Future of Leadership in a Changing World",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Building a Growth Mindset",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Why Innovation Matters for Africa’s Development",
+          "separated": true,
+          "imageLoaded": true
+        }
+      ],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "article",
+      "viewport": "1920x1080",
+      "status": 200,
+      "overflow": false,
+      "width": 1920,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "publication",
+      "viewport": "1920x1080",
+      "status": 200,
+      "overflow": false,
+      "width": 1920,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "library",
+      "viewport": "1920x1080",
+      "status": 200,
+      "overflow": false,
+      "width": 1920,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "login",
+      "viewport": "1920x1080",
+      "status": 200,
+      "overflow": false,
+      "width": 1920,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "register",
+      "viewport": "1920x1080",
+      "status": 200,
+      "overflow": false,
+      "width": 1920,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "home",
+      "viewport": "1440x900",
+      "status": 200,
+      "overflow": false,
+      "width": 1440,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": "608.297px 497.688px",
+      "cards": [
+        {
+          "title": "The Future of Leadership in a Changing World",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Building a Growth Mindset",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Why Innovation Matters for Africa’s Development",
+          "separated": true,
+          "imageLoaded": true
+        }
+      ],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "explore",
+      "viewport": "1440x900",
+      "status": 200,
+      "overflow": false,
+      "width": 1440,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "categories",
+      "viewport": "1440x900",
+      "status": 200,
+      "overflow": false,
+      "width": 1440,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "category",
+      "viewport": "1440x900",
+      "status": 200,
+      "overflow": false,
+      "width": 1440,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "insights",
+      "viewport": "1440x900",
+      "status": 200,
+      "overflow": false,
+      "width": 1440,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [
+        {
+          "title": "The Future of Leadership in a Changing World",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Building a Growth Mindset",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Why Innovation Matters for Africa’s Development",
+          "separated": true,
+          "imageLoaded": true
+        }
+      ],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "article",
+      "viewport": "1440x900",
+      "status": 200,
+      "overflow": false,
+      "width": 1440,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "publication",
+      "viewport": "1440x900",
+      "status": 200,
+      "overflow": false,
+      "width": 1440,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "library",
+      "viewport": "1440x900",
+      "status": 200,
+      "overflow": false,
+      "width": 1440,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "login",
+      "viewport": "1440x900",
+      "status": 200,
+      "overflow": false,
+      "width": 1440,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "register",
+      "viewport": "1440x900",
+      "status": 200,
+      "overflow": false,
+      "width": 1440,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "home",
+      "viewport": "1366x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1366,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": "608.297px 497.688px",
+      "cards": [
+        {
+          "title": "The Future of Leadership in a Changing World",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Building a Growth Mindset",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Why Innovation Matters for Africa’s Development",
+          "separated": true,
+          "imageLoaded": true
+        }
+      ],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "explore",
+      "viewport": "1366x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1366,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "categories",
+      "viewport": "1366x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1366,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "category",
+      "viewport": "1366x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1366,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "insights",
+      "viewport": "1366x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1366,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [
+        {
+          "title": "The Future of Leadership in a Changing World",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Building a Growth Mindset",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Why Innovation Matters for Africa’s Development",
+          "separated": true,
+          "imageLoaded": true
+        }
+      ],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "article",
+      "viewport": "1366x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1366,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "publication",
+      "viewport": "1366x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1366,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "library",
+      "viewport": "1366x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1366,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "login",
+      "viewport": "1366x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1366,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "register",
+      "viewport": "1366x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1366,
+      "menuVisible": false,
+      "desktopNavVisible": true,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "home",
+      "viewport": "1024x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1024,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": "523.594px 428.406px",
+      "cards": [
+        {
+          "title": "The Future of Leadership in a Changing World",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Building a Growth Mindset",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Why Innovation Matters for Africa’s Development",
+          "separated": true,
+          "imageLoaded": true
+        }
+      ],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "explore",
+      "viewport": "1024x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1024,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "categories",
+      "viewport": "1024x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1024,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "category",
+      "viewport": "1024x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1024,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "insights",
+      "viewport": "1024x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1024,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [
+        {
+          "title": "The Future of Leadership in a Changing World",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Building a Growth Mindset",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Why Innovation Matters for Africa’s Development",
+          "separated": true,
+          "imageLoaded": true
+        }
+      ],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "article",
+      "viewport": "1024x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1024,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "publication",
+      "viewport": "1024x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1024,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "library",
+      "viewport": "1024x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1024,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "login",
+      "viewport": "1024x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1024,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "register",
+      "viewport": "1024x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1024,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "home",
+      "viewport": "768x1024",
+      "status": 200,
+      "overflow": false,
+      "width": 768,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": "724px",
+      "cards": [
+        {
+          "title": "The Future of Leadership in a Changing World",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Building a Growth Mindset",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Why Innovation Matters for Africa’s Development",
+          "separated": true,
+          "imageLoaded": true
+        }
+      ],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "explore",
+      "viewport": "768x1024",
+      "status": 200,
+      "overflow": false,
+      "width": 768,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "categories",
+      "viewport": "768x1024",
+      "status": 200,
+      "overflow": false,
+      "width": 768,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "category",
+      "viewport": "768x1024",
+      "status": 200,
+      "overflow": false,
+      "width": 768,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "insights",
+      "viewport": "768x1024",
+      "status": 200,
+      "overflow": false,
+      "width": 768,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [
+        {
+          "title": "The Future of Leadership in a Changing World",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Building a Growth Mindset",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Why Innovation Matters for Africa’s Development",
+          "separated": true,
+          "imageLoaded": true
+        }
+      ],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "article",
+      "viewport": "768x1024",
+      "status": 200,
+      "overflow": false,
+      "width": 768,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "publication",
+      "viewport": "768x1024",
+      "status": 200,
+      "overflow": false,
+      "width": 768,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "library",
+      "viewport": "768x1024",
+      "status": 200,
+      "overflow": false,
+      "width": 768,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "login",
+      "viewport": "768x1024",
+      "status": 200,
+      "overflow": false,
+      "width": 768,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "register",
+      "viewport": "768x1024",
+      "status": 200,
+      "overflow": false,
+      "width": 768,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "home",
+      "viewport": "390x844",
+      "status": 200,
+      "overflow": false,
+      "width": 390,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": "346px",
+      "cards": [
+        {
+          "title": "The Future of Leadership in a Changing World",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Building a Growth Mindset",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Why Innovation Matters for Africa’s Development",
+          "separated": true,
+          "imageLoaded": true
+        }
+      ],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "explore",
+      "viewport": "390x844",
+      "status": 200,
+      "overflow": false,
+      "width": 390,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "categories",
+      "viewport": "390x844",
+      "status": 200,
+      "overflow": false,
+      "width": 390,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "category",
+      "viewport": "390x844",
+      "status": 200,
+      "overflow": false,
+      "width": 390,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "insights",
+      "viewport": "390x844",
+      "status": 200,
+      "overflow": false,
+      "width": 390,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [
+        {
+          "title": "The Future of Leadership in a Changing World",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Building a Growth Mindset",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Why Innovation Matters for Africa’s Development",
+          "separated": true,
+          "imageLoaded": true
+        }
+      ],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "article",
+      "viewport": "390x844",
+      "status": 200,
+      "overflow": false,
+      "width": 390,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "publication",
+      "viewport": "390x844",
+      "status": 200,
+      "overflow": false,
+      "width": 390,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "library",
+      "viewport": "390x844",
+      "status": 200,
+      "overflow": false,
+      "width": 390,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "login",
+      "viewport": "390x844",
+      "status": 200,
+      "overflow": false,
+      "width": 390,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "register",
+      "viewport": "390x844",
+      "status": 200,
+      "overflow": false,
+      "width": 390,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "home",
+      "viewport": "375x812",
+      "status": 200,
+      "overflow": false,
+      "width": 375,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": "331px",
+      "cards": [
+        {
+          "title": "The Future of Leadership in a Changing World",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Building a Growth Mindset",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Why Innovation Matters for Africa’s Development",
+          "separated": true,
+          "imageLoaded": true
+        }
+      ],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "explore",
+      "viewport": "375x812",
+      "status": 200,
+      "overflow": false,
+      "width": 375,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "categories",
+      "viewport": "375x812",
+      "status": 200,
+      "overflow": false,
+      "width": 375,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "category",
+      "viewport": "375x812",
+      "status": 200,
+      "overflow": false,
+      "width": 375,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "insights",
+      "viewport": "375x812",
+      "status": 200,
+      "overflow": false,
+      "width": 375,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [
+        {
+          "title": "The Future of Leadership in a Changing World",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Building a Growth Mindset",
+          "separated": true,
+          "imageLoaded": true
+        },
+        {
+          "title": "Why Innovation Matters for Africa’s Development",
+          "separated": true,
+          "imageLoaded": true
+        }
+      ],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "article",
+      "viewport": "375x812",
+      "status": 200,
+      "overflow": false,
+      "width": 375,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "publication",
+      "viewport": "375x812",
+      "status": 200,
+      "overflow": false,
+      "width": 375,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "library",
+      "viewport": "375x812",
+      "status": 200,
+      "overflow": false,
+      "width": 375,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "login",
+      "viewport": "375x812",
+      "status": 200,
+      "overflow": false,
+      "width": 375,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "register",
+      "viewport": "375x812",
+      "status": 200,
+      "overflow": false,
+      "width": 375,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "admin-hero-slides",
+      "viewport": "1920x1080",
+      "status": 200,
+      "overflow": false,
+      "width": 1920,
+      "menuVisible": null,
+      "desktopNavVisible": null,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "reader",
+      "viewport": "1920x1080",
+      "status": 200,
+      "overflow": false,
+      "width": 1920,
+      "menuVisible": null,
+      "desktopNavVisible": null,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": [],
+      "pdfPages": "2"
+    },
+    {
+      "name": "admin-hero-slides",
+      "viewport": "1440x900",
+      "status": 200,
+      "overflow": false,
+      "width": 1440,
+      "menuVisible": null,
+      "desktopNavVisible": null,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "reader",
+      "viewport": "1440x900",
+      "status": 200,
+      "overflow": false,
+      "width": 1440,
+      "menuVisible": null,
+      "desktopNavVisible": null,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": [],
+      "pdfPages": "2"
+    },
+    {
+      "name": "admin-hero-slides",
+      "viewport": "1366x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1366,
+      "menuVisible": null,
+      "desktopNavVisible": null,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "reader",
+      "viewport": "1366x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1366,
+      "menuVisible": null,
+      "desktopNavVisible": null,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": [],
+      "pdfPages": "2"
+    },
+    {
+      "name": "admin-hero-slides",
+      "viewport": "1024x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1024,
+      "menuVisible": null,
+      "desktopNavVisible": null,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "reader",
+      "viewport": "1024x768",
+      "status": 200,
+      "overflow": false,
+      "width": 1024,
+      "menuVisible": null,
+      "desktopNavVisible": null,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": [],
+      "pdfPages": "2"
+    },
+    {
+      "name": "admin-hero-slides",
+      "viewport": "768x1024",
+      "status": 200,
+      "overflow": false,
+      "width": 768,
+      "menuVisible": null,
+      "desktopNavVisible": null,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "reader",
+      "viewport": "768x1024",
+      "status": 200,
+      "overflow": false,
+      "width": 768,
+      "menuVisible": null,
+      "desktopNavVisible": null,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": [],
+      "pdfPages": "2"
+    },
+    {
+      "name": "admin-hero-slides",
+      "viewport": "390x844",
+      "status": 200,
+      "overflow": false,
+      "width": 390,
+      "menuVisible": null,
+      "desktopNavVisible": null,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "reader",
+      "viewport": "390x844",
+      "status": 200,
+      "overflow": false,
+      "width": 390,
+      "menuVisible": null,
+      "desktopNavVisible": null,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": [],
+      "pdfPages": "2"
+    },
+    {
+      "name": "admin-hero-slides",
+      "viewport": "375x812",
+      "status": 200,
+      "overflow": false,
+      "width": 375,
+      "menuVisible": null,
+      "desktopNavVisible": null,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    },
+    {
+      "name": "reader",
+      "viewport": "375x812",
+      "status": 200,
+      "overflow": false,
+      "width": 375,
+      "menuVisible": null,
+      "desktopNavVisible": null,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": [],
+      "pdfPages": "2"
+    },
+    {
+      "name": "authenticated-library",
+      "viewport": "390x844",
+      "status": 200,
+      "overflow": false,
+      "width": 390,
+      "menuVisible": true,
+      "desktopNavVisible": false,
+      "heroColumns": null,
+      "cards": [],
+      "brokenImages": [],
+      "overflowingElements": []
+    }
+  ],
+  "interactions": [
+    "Slider next, previous, pagination, pause",
+    "Hero search submission and matching publication",
+    "Topic chip search",
+    "Guest access to public publication preserved; restricted-access redirects covered by PHPUnit",
+    "Mobile menu opens, focuses first link, Escape closes and restores focus",
+    "Reduced motion disables autoplay",
+    "Admin login, hero administration and authenticated PDF rendering"
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "baseUrl": "http://localhost/portal/public"
+}

@@ -1,0 +1,9 @@
+{
+  "fallbacks": [
+    ".hero-slide-image img",
+    ".insight-art img",
+    ".cover img"
+  ],
+  "bookLink": true,
+  "insightLink": true
+}

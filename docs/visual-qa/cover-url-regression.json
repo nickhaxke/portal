@@ -1,0 +1,35 @@
+[
+  {
+    "name": "home",
+    "images": [
+      {
+        "src": "http://localhost/portal/public/storage/covers/MWuF4gklubw1CRTxidIVIKTXGDjMYwJOjg3wumD3.jpg",
+        "loaded": true,
+        "visible": true,
+        "sameOrigin": true
+      }
+    ]
+  },
+  {
+    "name": "catalogue",
+    "images": [
+      {
+        "src": "http://localhost/portal/public/storage/covers/MWuF4gklubw1CRTxidIVIKTXGDjMYwJOjg3wumD3.jpg",
+        "loaded": true,
+        "visible": true,
+        "sameOrigin": true
+      }
+    ]
+  },
+  {
+    "name": "detail",
+    "images": [
+      {
+        "src": "http://localhost/portal/public/storage/covers/MWuF4gklubw1CRTxidIVIKTXGDjMYwJOjg3wumD3.jpg",
+        "loaded": true,
+        "visible": true,
+        "sameOrigin": true
+      }
+    ]
+  }
+]
