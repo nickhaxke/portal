@@ -30,7 +30,7 @@
                     </div>
 
                     <h3 style="margin: 0 0 8px; font-family: 'Playfair Display', serif; font-size: 20px; color: var(--navy);">
-                        <a href="{{ route('libraries.show', $library->slug) }}" style="color: var(--navy); text-decoration: none;">
+                        <a href="{{ Route::has('libraries.show') ? route('libraries.show', $library->slug) : url('/libraries/' . $library->slug) }}" style="color: var(--navy); text-decoration: none;">
                             {{ $library->name }}
                         </a>
                     </h3>
@@ -44,7 +44,7 @@
                     <span style="font-size: 12px; color: var(--muted);">
                         Access: <strong style="color: var(--navy); text-transform: capitalize;">{{ $library->visibility }}</strong>
                     </span>
-                    <a href="{{ route('libraries.show', $library->slug) }}" class="plain" style="color: var(--gold); font-weight: 700; font-size: 13.5px; display: inline-flex; align-items: center; gap: 4px;">
+                    <a href="{{ Route::has('libraries.show') ? route('libraries.show', $library->slug) : url('/libraries/' . $library->slug) }}" class="plain" style="color: var(--gold); font-weight: 700; font-size: 13.5px; display: inline-flex; align-items: center; gap: 4px;">
                         Browse Library &rarr;
                     </a>
                 </div>

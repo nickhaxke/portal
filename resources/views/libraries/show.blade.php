@@ -15,7 +15,7 @@
         'viewMode' => $view,
         'facetCounts' => $facetCounts,
         'resultsCount' => $books->total(),
-        'endpoint' => route('libraries.show', $library->slug),
+        'endpoint' => Route::has('libraries.show') ? route('libraries.show', $library->slug) : url('/libraries/' . $library->slug),
         'isLibraryScoped' => true,
     ];
 @endphp

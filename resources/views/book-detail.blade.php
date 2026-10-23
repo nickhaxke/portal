@@ -39,7 +39,7 @@
         <a href="{{ route('explore') }}" class="biblio-crumb">&larr; Repository Catalogue</a>
         @if($book->library)
             <span class="biblio-crumb-sep">/</span>
-            <a href="{{ route('libraries.show', $book->library->slug) }}" class="biblio-crumb">{{ $book->library->name }}</a>
+            <a href="{{ Route::has('libraries.show') ? route('libraries.show', $book->library->slug) : url('/libraries/' . $book->library->slug) }}" class="biblio-crumb">{{ $book->library->name }}</a>
         @endif
         @if($book->category)
             <span class="biblio-crumb-sep">/</span>
@@ -166,7 +166,7 @@
                     @endif
 
                     @if($book->library)
-                        <a href="{{ route('libraries.show', $book->library->slug) }}" class="biblio-badge biblio-badge-library">
+                        <a href="{{ Route::has('libraries.show') ? route('libraries.show', $book->library->slug) : url('/libraries/' . $book->library->slug) }}" class="biblio-badge biblio-badge-library">
                             <x-icon name="collections" size="12" />
                             {{ $book->library->name }}
                         </a>
@@ -381,7 +381,7 @@
                             <div class="detail-row">
                                 <span class="detail-label">Digital Library Repository</span>
                                 <span class="detail-value">
-                                    <a href="{{ route('libraries.show', $book->library->slug) }}" class="biblio-link">
+                                    <a href="{{ Route::has('libraries.show') ? route('libraries.show', $book->library->slug) : url('/libraries/' . $book->library->slug) }}" class="biblio-link">
                                         {{ $book->library->name }} ↗
                                     </a>
                                 </span>
