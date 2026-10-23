@@ -1,0 +1,60 @@
+﻿PORTAL - UPDATE YA CPANEL
+Tarehe: 23 Oktoba 2026
+
+ZIP hii ina msimbo wa sasa wa app, bootstrap, config, migrations,
+factories, seeders, resources, routes, public, artisan na dependency locks.
+CSS/JS zipo tayari ndani ya public/build; huhitaji Node.js kwenye server.
+Hii ni update ya project iliyopo. Haijumuishi .env ya ndani, database,
+backups, storage, node_modules, vendor ya PHP, au cache za ndani.
+public/vendor ina PDF.js inayotumiwa na reader.
+
+1. Chukua backup ya project, database na storage ya server kabla ya update.
+   Hifadhi pia public/index.php na public/.htaccess za server, hasa kama
+   zina njia maalum za public_html au PHP handler ya cPanel.
+
+2. Pakia portal-update-package.zip na Extract ndani ya root ya Laravel
+   yenye artisan, app, composer.json na .env, mfano /home/USERNAME/portal.
+   Usifute project, .env, storage, vendor au database zilizopo kwenye server.
+   public/index.php iliyomo inatumia muundo wa kawaida wa Laravel.
+   Rejesha njia maalum za server kwenye index.php na PHP handler za .htaccess
+   ikiwa mpangilio wako unazihitaji.
+
+3. Kama domain inaelekea portal/public, assets tayari zipo mahali sahihi.
+   Kama public_html iko tofauti na project, nakili public/build,
+   public/vendor, favicon.ico na robots.txt kwenda document root halisi.
+   Unganisha mabadiliko ya public/.htaccess na public/index.php kwa kuhifadhi
+   njia na mipangilio maalum ya hosting. Usinakili storage juu ya uploads.
+   Usihamishe app, config, database, .env au vendor ya PHP kwenda eneo la umma.
+
+4. Chagua PHP 8.4 kwenye cPanel. Kwenye Terminal, ingia root ya project:
+      cd /home/USERNAME/portal
+      composer install --no-dev --prefer-dist --optimize-autoloader --no-interaction
+      php artisan migrate --force --no-interaction
+      php artisan optimize:clear --no-interaction
+      php artisan config:cache --no-interaction
+      php artisan route:cache --no-interaction
+      php artisan view:cache --no-interaction
+   Badilisha USERNAME na njia kulingana na hosting yako.
+   Tumia PHP CLI 8.4 pia; kubadili PHP ya domain pekee huenda kusibadili CLI.
+   Usitumie migrate:fresh, db:wipe, key:generate au seed kwa update hii.
+   Kama queue workers zinatumika, endesha pia php artisan queue:restart.
+   Kama huna Terminal/Composer, omba hosting itekeleze amri hizi.
+   Njia mbadala ya migration ya libraries/tags: kwenye phpMyAdmin chagua
+   database ya portal, kisha Import database/update_schema.sql.
+   SQL hii ni kwa database iliyopo yenye migrations za hadi 17 Oktoba 2026;
+   si kwa database mpya. Chukua backup na sitisha import ikitokea error.
+   SQL ikikamilika inasajili migration hiyo ili Artisan isiirudie.
+   Composer na amri za kusafisha cache bado zinahitajika.
+
+5. Hakikisha APP_URL na credentials za database kwenye .env ya server
+   ni sahihi. Hifadhi APP_KEY iliyopo. storage na bootstrap/cache zinahitaji
+   ruhusa za kuandikwa na PHP; usitumie ruhusa 777.
+   Hifadhi storage symlink iliyopo; kama haipo na hosting inaruhusu:
+      php artisan storage:link --no-interaction
+
+6. Hakiki login, catalogue, utafutaji, cover images, PDF reader na
+   /admin/books/create. Jaribu pia kuhifadhi draft na kuchapisha kitabu.
+   Ondoa ZIP kutoka server baada ya kumaliza.
+
+Ikiwa update ina tatizo, rejesha backup ya faili. Kama migrations
+zimebadilisha database, rejesha pia backup ya database inayolingana.

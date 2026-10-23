@@ -103,12 +103,12 @@
             <div class="eyebrow">Institutional Repositories</div>
             <h2>Curated Digital Libraries</h2>
         </div>
-        <a href="{{ route('libraries.index') }}" class="link">View all libraries &rarr;</a>
+        <a href="{{ Route::has('libraries.index') ? route('libraries.index') : url('/libraries') }}" class="link">View all libraries &rarr;</a>
     </div>
 
     <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px;">
         @foreach($libraries as $lib)
-            <a href="{{ route('libraries.show', $lib->slug) }}" class="category" style="text-decoration: none; padding: 22px; display: flex; flex-direction: column; justify-content: space-between; border-radius: 8px;">
+            <a href="{{ Route::has('libraries.show') ? route('libraries.show', $lib->slug) : url('/libraries/' . $lib->slug) }}" class="category" style="text-decoration: none; padding: 22px; display: flex; flex-direction: column; justify-content: space-between; border-radius: 8px;">
                 <div>
                     <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 14px;">
                         <span style="width: 40px; height: 40px; border-radius: 8px; background: rgba(16, 41, 70, 0.08); color: var(--navy); display: inline-flex; align-items: center; justify-content: center;">

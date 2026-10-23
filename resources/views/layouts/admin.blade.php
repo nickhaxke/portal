@@ -95,7 +95,7 @@
 
                 <!-- 2. LIBRARY MANAGEMENT -->
                 <div class="sidebar-section-label">Library Management</div>
-                <a href="{{ route('admin.libraries.index') }}" class="admin-nav-link {{ request()->routeIs('admin.libraries.*') ? 'active' : '' }}">
+                <a href="{{ Route::has('admin.libraries.index') ? route('admin.libraries.index') : url('/admin/libraries') }}" class="admin-nav-link {{ request()->routeIs('admin.libraries.*') ? 'active' : '' }}">
                     <span class="admin-nav-icon"><x-icon name="library" size="17" /></span>
                     <span>Libraries</span>
                 </a>

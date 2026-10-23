@@ -26,7 +26,7 @@
 >
     <!-- Breadcrumb -->
     <div style="margin-bottom: 20px;">
-        <a href="{{ route('libraries.index') }}" class="plain" style="font-size: 13px; color: var(--muted); display: inline-flex; align-items: center; gap: 6px;">
+        <a href="{{ Route::has('libraries.index') ? route('libraries.index') : url('/libraries') }}" class="plain" style="font-size: 13px; color: var(--muted); display: inline-flex; align-items: center; gap: 6px;">
             &larr; All Digital Libraries
         </a>
     </div>

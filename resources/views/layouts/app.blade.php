@@ -23,7 +23,7 @@
 
         <nav id="nav" x-ref="primaryNav" aria-label="Primary navigation" :class="{ 'open': mobileNav }">
             <a href="{{ route('home') }}" class="{{ request()->routeIs('home') ? 'active' : '' }}">Home</a>
-            <a href="{{ route('libraries.index') }}" class="{{ request()->routeIs('libraries.*') ? 'active' : '' }}">Libraries</a>
+            <a href="{{ Route::has('libraries.index') ? route('libraries.index') : url('/libraries') }}" class="{{ request()->routeIs('libraries.*') ? 'active' : '' }}">Libraries</a>
             <a href="{{ route('explore') }}" class="{{ request()->routeIs('explore') ? 'active' : '' }}">Catalogue</a>
             <a href="{{ route('categories.index') }}" class="{{ request()->routeIs('categories.*') ? 'active' : '' }}">Disciplines</a>
             <a href="{{ route('insights.index') }}" class="{{ request()->routeIs('insights.*') ? 'active' : '' }}">Insights</a>
